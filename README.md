@@ -9,3 +9,5 @@
 # 繪製“登入註冊”模塊的顺序圖(Sequence Diagram)
 
 # 繪製“登入註冊”模塊的活動圖(Activity Diagram)
+
+https://www.cnblogs.com/xiaoying-jiang/p/18146358
